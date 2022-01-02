@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Metri-Co
 - 👀 I’m interested in machine learning and artificial intelligence in health and food solutions
-- 🌱 I’m currently learning python and R.
+- 🌱 I’m currently learning python, R, and Julia programming Language.
 - 💞️ I’m looking to collaborate on startups.
 - 📫 How to reach me at metri988@gmail.com
 
