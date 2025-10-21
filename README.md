@@ -6,7 +6,7 @@ The technologies I've work with:
 
 [![My Skills](https://skillicons.dev/icons?i=python,opencv,mongodb,matlab,git,julia)](https://skillicons.dev)
 
-But my day-to-day tools are MATLAB and Micosoft SQL Server
+But the technologies I use daily are MATLAB and Micosoft SQL Server
 
 ## My research on Machine Learning (so far) :tada: :
 
