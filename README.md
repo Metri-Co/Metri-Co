@@ -4,9 +4,11 @@ I'm Jorge Metri, self-taught Data Scientist from Mexico. I'm currently working w
 
 The technologies I've work with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,opencv,mongodb,matlab,git,julia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,opencv,mongodb,matlab,git,julia,mysql)](https://skillicons.dev)
 
 But the technologies I use daily are MATLAB and Micosoft SQL Server
+
+My goal is to contribute to healthcare, food, or nutrition industries with data analysis and data science; hwever, I'm  very interested in other topics like stock investments.
 
 ## My research on Machine Learning (so far) :tada: :
 
